@@ -1,0 +1,15 @@
+Ssd1306  KEYWORD1
+
+begin	KEYWORD2
+oledSetPixel	KEYWORD2
+oledDrawLine	KEYWORD2
+oledDrawRect	KEYWORD2
+oledFillRect	KEYWORD2
+oledDrawCircle	KEYWORD2
+oledDrawChar	KEYWORD2
+oledPrintLine	KEYWORD2
+oledInvert 	KEYWORD2
+oledNormal	KEYWORD2
+oledCopyDisplayBuffer	KEYWORD2
+oledClearDisplayBuffer	KEYWORD2
+
